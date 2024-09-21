@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Cyrus</h1>
-<!-- <h3 align="center">A passionate frontend developer from Turkey</h3> -->
+<!-- <h3 align="center">A passionate frontend developer from Turkey</h3> 
 
-- 🔭 I’m currently working on **React**
+<!--- 🔭 I’m currently working on **React**
 
 - 🌱 I’m currently learning **React**
 
-- 📫 How to reach me **cyrus@gmail.com**
+- 📫 How to reach me **cyrus@gmail.com**-->
 
 <h3 align="left">Connect with me:</h3>
 
